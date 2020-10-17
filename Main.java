@@ -13,8 +13,9 @@ public class Main
 
 /*
  	This is IO Lesson for me.
-	I am just a beginner
-    Can Edit as You Like.
+	
+        Can Edit as You Like.
+
 	You can only test when program output >Condition True<.
 */
 
